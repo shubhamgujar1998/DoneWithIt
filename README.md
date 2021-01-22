@@ -1,7 +1,7 @@
 # DoneWithIt
 
 ---
-<img src="https://user-images.githubusercontent.com/43499410/105490572-975aae00-5c7a-11eb-87fc-10b287fac69a.png" height="350" width="240"/>
+<img src="https://user-images.githubusercontent.com/43499410/105490572-975aae00-5c7a-11eb-87fc-10b287fac69a.png" height="350" width="200"/>
 
 ![image](https://user-images.githubusercontent.com/43499410/105490586-9c1f6200-5c7a-11eb-8919-69d7cf5092a0.png)
 
