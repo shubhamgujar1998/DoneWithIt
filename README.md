@@ -1,9 +1,12 @@
 # DoneWithIt
 
 ---
-__A React Native application developed using React State, Hooks and built using expo. __  <br/>
+__A React Native application developed using React State, Hooks and built using expo__  <br/>
 __Authentication implemented using JWT__ <br/>
-__Supports Offline storage__
+__Supports Offline storage__  <br/><br/>
+
+__Refer the images below for further understanding of the application__  <br/>
+---
 
 
 <p align="center">
